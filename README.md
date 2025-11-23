@@ -1,4 +1,4 @@
-# Project scaffold
+# Project scaffold (BAM)
 
 This repository currently contains a minimal, reversible scaffold to get started.
 
